@@ -1,0 +1,3 @@
+[submodule "themes/showfolio-hugo-theme"]
+	path = themes/showfolio-hugo-theme
+	url = https://github.com/ayuhening/showfolio-hugo-theme.git
